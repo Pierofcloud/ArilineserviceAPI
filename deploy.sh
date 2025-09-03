@@ -1,2 +1,1 @@
-deploy a shell script
-will auto made the code 
+deploy a shell script 
