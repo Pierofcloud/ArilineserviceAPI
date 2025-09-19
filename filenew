@@ -1,4 +1,8 @@
 This code was recently added by the Balaram
 This is the second line of code
 I have added third line 
+<<<<<<< HEAD
 we have added new feature
+=======
+I have added fourth line
+>>>>>>> a2f3aff8d6440150808c05efb8fcec42d662dd8f
